@@ -1,9 +1,9 @@
 .index-title{
-  width: 60rem;
-  height: 40rem;
-  font-family: 'Roboto Slab', serif;
-  font-size: 3rem;
-  position: fixed;
-  margin-top: 0.7rem;
-  margin-left: 0.7rem;
+	width: 70%;
+	height: 4rem;
+	font-family: 'Roboto Slab', serif;
+	font-size: 2.6rem;
+	position: fixed;
+	margin-top: 0.7rem;
+	margin-left: 0.7rem;
 }
