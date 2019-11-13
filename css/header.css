@@ -10,6 +10,16 @@
  	bottom: 0;
 }
 
+.logo{
+	width: 5rem;
+	height: 6rem;
+	position: fixed;
+	top:0;
+	right: 0;
+	margin-right: 0.5rem;
+	margin-top: 0.3rem;
+}
+
 .icones{
 	display: flex;
 	border-style: solid;

@@ -3,4 +3,7 @@
   height: 40rem;
   font-family: 'Roboto Slab', serif;
   font-size: 3rem;
+  position: fixed;
+  margin-top: 0.7rem;
+  margin-left: 0.7rem;
 }
