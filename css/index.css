@@ -1,4 +1,7 @@
 .index-title{
+	border-style: solid;
+    border-width: 0.3rem;
+    border-color: #000000;
 	width: 70%;
 	height: 4rem;
 	font-family: 'Roboto Slab', serif;
