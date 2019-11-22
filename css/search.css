@@ -4,7 +4,7 @@
  	border-width: 0.3rem;
  	width: 90%;
  	height: 25rem;
- 	margin: 10rem auto;
+ 	margin: 1rem auto;
 }
 
 .mapa{	
@@ -15,8 +15,16 @@
 
 .pino{
 	position: absolute;
-	margin-top: 5rem;
-	margin-left: 0;
+	top: 35rem;
+	left: 15rem;
+	width: 2rem;
+	height: 2rem;
+}
+
+.pino2{
+	position: absolute;
+	top: 22rem;
+	left: 18rem;
 	width: 2rem;
 	height: 2rem;
 }
@@ -25,7 +33,7 @@
   display: flex;
   justify-content: space-between;
   flex-direction: column;
-  margin: 0 auto;
+  margin: 2rem auto;
   width:90%;
   height: 100rem;
   border-style: solid;
@@ -37,4 +45,16 @@
 	display: flex;
 	width: 100%;
 	height: auto;
+}
+
+.filtro{
+	display: flex;
+	width: 90%;
+	height: 4rem;
+	margin: auto;
+	margin-top: 8rem;
+	border-style: solid;
+ 	border-width: 0.3rem;
+
+
 }
