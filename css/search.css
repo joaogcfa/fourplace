@@ -15,7 +15,7 @@
 
 .pino{
 	position: absolute;
-	top: 35rem;
+	top: 33rem;
 	left: 15rem;
 	width: 2rem;
 	height: 2rem;
@@ -23,7 +23,7 @@
 
 .pino2{
 	position: absolute;
-	top: 22rem;
+	top: 20rem;
 	left: 18rem;
 	width: 2rem;
 	height: 2rem;
@@ -35,9 +35,7 @@
   flex-direction: column;
   margin: 2rem auto;
   width:90%;
-  height: 100rem;
-  border-style: solid;
- 	border-width: 0.3rem;
+  height: 30rem;
 
 }
 
@@ -45,6 +43,18 @@
 	display: flex;
 	width: 100%;
 	height: auto;
+}
+
+.endereco{
+	margin-top: 1rem;
+	font-size: 1.2rem;
+	margin-left: 0.5rem;
+}
+
+.casa{
+	border-style: solid;
+ 	border-width: 0.3rem;
+ 	
 }
 
 .filtro{
@@ -55,6 +65,17 @@
 	margin-top: 1rem;
 	border-style: solid;
  	border-width: 0.3rem;
+ 	flex-direction: row;
+ 	align-items: center;
+}
+
+.filter-icon{
+	display: flex;
+	width: 18%;
+}
 
 
+.text{
+	font-size: 1.8rem;
+	margin-left: 2rem;
 }
