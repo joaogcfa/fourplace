@@ -1,6 +1,6 @@
 .resultados-do-mapa{
 	display: flex;
-  border-style: solid;
+  	border-style: solid;
  	border-width: 0.3rem;
  	width: 90%;
  	margin: 1rem auto;
