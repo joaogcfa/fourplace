@@ -1,0 +1,28 @@
+.index-title{
+
+	width: 70%;
+	height: 4rem;
+	font-family: 'Roboto Slab', serif;
+	font-size: 1.8rem;
+	margin-top: 1.8rem;
+	margin-left: 0.7rem;
+}
+
+
+.escolher{
+	margin: 0 auto;
+}
+
+.aba-facul{
+	margin: 0 auto;
+}
+
+.texto-facul{
+	width: 18rem;
+	font-size: 1.5rem;
+}
+
+.main{
+	margin: 3rem auto;
+	width: 18rem;
+}
