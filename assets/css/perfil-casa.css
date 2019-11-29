@@ -2,7 +2,7 @@
 	display: flex;
 	border-style: solid;
 	border-width: 0.1rem;
-	margin-top: 0.9rem;
+	margin-top: 0.5rem;
 	height: 6.2rem;
 	width: 96%;
 	justify-content: space-between;
@@ -11,6 +11,45 @@
 }
 
 .quadro2{
+	display: flex;
+	border-style: solid;
+	border-width: 0.1rem;
+	margin-top: 0.08rem;
+	height: 4rem;
+	width: 96%;
+	justify-content: space-around;
+	flex-direction: row;
+	align-items: center;
+	margin: 0.5rem auto;
+}
+
+.quadro3{
+	display: flex;
+	border-style: solid;
+	border-width: 0.1rem;
+	margin-top: 0.08rem;
+	height: 4rem;
+	width: 96%;
+	justify-content: space-around;
+	flex-direction: row;
+	align-items: center;
+	margin: 0.5rem auto;
+}
+
+.quadro4{
+	display: flex;
+	border-style: solid;
+	border-width: 0.1rem;
+	margin-top: 0.08rem;
+	height: 4rem;
+	width: 96%;
+	justify-content: space-around;
+	flex-direction: row;
+	align-items: center;
+	margin: 0.5rem auto;
+}
+
+.quadro5{
 	display: flex;
 	border-style: solid;
 	border-width: 0.1rem;
@@ -70,52 +109,19 @@
 	margin-left: 1rem;
 }
 
-.alugada{
-	width: 30%;
-	height: 4rem;
-}
-
-.resultados{
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;
-  margin: 0.1rem auto;
-  width:96%;
-  height: 40rem;
-  margin-bottom: 6rem;
-
-}
-
-.apartamento{
-	width: 100%;
-	height: auto;
-}
-
-.casa{
+.friend{
 	display: flex;
-	justify-content: space-between;
-  	flex-direction: column;
-	margin-top: 0.1rem;
 	border-style: solid;
- 	border-width: 0.1rem;
-}
-
-.endereco{
-	margin-top: 0.5rem;
-	font-size: 1rem;
-	margin-left: 0.5rem;
-}
-
-.ver-mais{
-	margin-top: 0.5rem;
-	width: 7rem;
-	margin-left: 15rem;
-}
-
-.titulo2{
-	margin: 0 auto;
-	font-size: 1.4rem;
+	border-width: 0.06rem;
+	margin-top: 0.08rem;
+	background-color: #1099D3;
+	height: 2rem;
+	width: 20%;
+	justify-content: space-around;
+	flex-direction: row;
+	align-items: center;
+	margin: 0.5rem auto;
 	font-style: 'Noto Serif JP', serif;
-	margin-top: 0.5rem;
-	margin-bottom: 0.2rem;
+	font-weight: bold;
+	text-align: center;
 }

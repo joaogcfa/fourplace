@@ -1,0 +1,8 @@
+.meio{
+	display: flex;
+	margin: 5rem auto;
+	font-size: 1.5rem;
+	width: 20rem;
+	font-family: "Lato", sans-serif;
+	text-align: center;
+}
